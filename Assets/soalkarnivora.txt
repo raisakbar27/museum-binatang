@@ -1,0 +1,35 @@
+Apa hewan yang memiliki bulu bergaris-garis, hidup di hutan, dan suka berburu rusa?
++Kucing
++Anjing
++Pinguin
++Harimau
++D
+#Hewan apa yang sering menjadi teman setia bagi keluarga, suka bermain, dan bisa datang dalam berbagai bentuk dan ukuran?
++Harimau
++Anjing
++Kucing
++Pinguin
++B
+#Apa hewan peliharaan yang memiliki bulu lembut dan cekung, suka tidur, dan bisa bermain dengan mainan kecil?
++Harimau
++Anjing
++Kucing
++Pinguin
++C
+#Di mana pinguin biasanya tinggal, terutama di daerah dingin seperti Antartika?
++Di hutan
++Di sungai
++Di lautan
++Di padang salju
++D
+#Apa yang membuat pinguin unik, karena mereka tidak bisa terbang, tapi sangat pandai berenang?
++Bulu yang tebal
++Warna hitam dan putih
++Keahlian meluncur di atas salju
++Kemampuan terbang
++D
+
+
+
+
+

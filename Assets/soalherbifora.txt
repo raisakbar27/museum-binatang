@@ -1,0 +1,30 @@
+Apa hewan yang biasanya digunakan untuk menarik kereta dan bisa berlari dengan cepat?
++Ayam
++Banteng
++Kuda
++Rusa
++C
+#Hewan apa yang memiliki tanduk yang indah di kepala dan suka makan rumput serta daun-daunan?
++Ayam
++Rusa
++Banteng
++Kuda
++B
+#Apa hewan yang sering kita temukan di peternakan, bertanggung jawab untuk bertelur, dan bisa memberikan daging dan telur?
++Kuda
++Rusa
++Ayam
++Banteng
++C
+#Hewan apa yang memiliki tanduk yang melengkung ke atas dan sering digunakan untuk membantu pekerjaan di ladang atau peternakan?
++Kuda
++Rusa
++Banteng
++Ayam
++C
+#Apa ciri khas dari rusa jantan yang membedakannya dengan rusa betina?
++Tanduk besar
++Tidak memiliki tanduk
++Bulu berwarna cerah
++Sayap yang besar
++A
